@@ -26,18 +26,18 @@ The code for this project is fully completed. However, the project is not curren
 
 To run this project locally, follow the steps below:
 
-1. Clone the repository by running the following command in your terminal:   git clone https://github.com/HiLakshya/NewsletterSignup-LandingPage.git
+1. Clone the repository by running the following command in your terminal:   `git clone https://github.com/HiLakshya/NewsletterSignup-LandingPage.git`
 
-2. Navigate to the project directory:    cd NewsletterSignup-LandingPage
+2. Navigate to the project directory:    `cd NewsletterSignup-LandingPage`
 
-3. Install the required dependencies:   npm install
+3. Install the required dependencies:   `npm install`
 
 4. Replace the APIKey and ListID variables in the app.js file with testing variables provided on MailChimp documentation.
 
-5. Start the server:  node app.js
+5. Start the server:  `node app.js`
 
 
-6. Open your web browser and go to  http://localhost:3000/ to view the landing page.
+6. Open your web browser and go to  http://localhost:3000/  to view the landing page.
 
 Thank you for your interest in this project. If you have any questions or feedback, please feel free to contact me.
 
